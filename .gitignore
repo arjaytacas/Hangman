@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+
+# Python cache
+*.log
+*.sqlite3
+*.db
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Test artifacts
+coverage/
+.pytest_cache/
+htmlcov/
